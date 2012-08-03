@@ -1,4 +1,4 @@
 ObjcUtils
 =========
 
-Utilities for iOS development
+Utilities for iOS development: common utilities and database utilites
